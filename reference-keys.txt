@@ -19,3 +19,7 @@ drawing-the-supply-curve
 drawing-the-demand-curve
 finding-equilibrium-price-and-quantity
 profits-of-buyers-and-sellers
+reservation-prices-and-consumers-surplus
+calculating-profits-and-consumers-surplus
+efficiency-and-competitive-equilibrium
+hints-on-supply-and-demand-curves
