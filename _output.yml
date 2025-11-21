@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: subsection
+    edit:
+      link: https://github.com/YOUR_GITHUB_USERNAME/econ130experiments/edit/main/%s
+      text: "Edit this page"
+    download: ["pdf", "epub"]

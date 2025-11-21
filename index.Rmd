@@ -1,0 +1,10 @@
+---
+title: "Econ 130 Experiments"
+author: "Christopher Burkart"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Preface
+
+Welcome to **Econ 130 Experiments**.

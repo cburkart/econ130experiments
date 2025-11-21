@@ -1,0 +1,4 @@
+book_filename: "econ130experiments"
+output_dir: "docs"
+clean: ["docs"]
+delete_merged_file: true
