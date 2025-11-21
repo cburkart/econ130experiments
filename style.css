@@ -1,2 +1,9 @@
 .book .book-body .page-wrapper { max-width: 900px; }
 a { color: #0d6efd; }
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
